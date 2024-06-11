@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AliusSidlauskas
 - 👀 I’m interested in Coding
-- 🌱 I’m currently learning FullStack
+- 🌱 I’m currently graduated FullStack courses
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
